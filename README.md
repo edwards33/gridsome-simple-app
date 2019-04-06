@@ -1,6 +1,6 @@
 # Example of Gridsome project that uses Markdown files as source of Pages context
 
-[Open Project's Web page](https://www.google.com)
+[Open Project's Web page](https://wizardly-mayer-9ff468.netlify.com/)
 
 ### 1. Install Gridsome CLI tool if you don't have
 
